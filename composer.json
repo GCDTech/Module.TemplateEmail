@@ -1,7 +1,7 @@
 {
   "name": "gcdtech/rhubarb-module-twigtemplateemail",
   "description": "A pattern for handling template based emails using twig.",
-  "license": "Apache 2.0",
+  "license": "Apache License 2.0",
   "autoload": {
     "psr-4": {
       "Gcdtech\\TwigTemplateEmail\\": "src/"
