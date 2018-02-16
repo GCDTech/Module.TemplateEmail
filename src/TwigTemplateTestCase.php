@@ -1,6 +1,6 @@
 <?php
 
-namespace Gcdtech\TemplateEmail;
+namespace Gcdtech\TwigTemplateEmail;
 
 use Rhubarb\Crown\Tests\Fixtures\TestCases\RhubarbTestCase;
 

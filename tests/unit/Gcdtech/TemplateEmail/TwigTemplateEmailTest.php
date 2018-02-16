@@ -1,6 +1,6 @@
 <?php
 
-namespace Gcdtech\TemplateEmail;
+namespace Gcdtech\TwigTemplateEmail;
 
 class TwigTemplateEmailTest extends TwigTemplateTestCase
 {
